@@ -1,0 +1,25 @@
+{
+    "id": "87A6C3F0",
+    "path": "~/github/blogdown-demo/content/projects.Rmd",
+    "project_path": "content/projects.Rmd",
+    "type": "r_markdown",
+    "hash": "403008025",
+    "contents": "",
+    "dirty": false,
+    "created": 1591329667294.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "13,58",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1591329725,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591329725209,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,2 +1,3 @@
 # blogdown-demo
-- This is the demo website of my blogdown tutorial.
+
+This is the demo website of my blogdown tutorial.
